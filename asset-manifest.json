@@ -1,13 +1,13 @@
 {
   "main.css": "/typist/static/css/main.5c3a49f5.chunk.css",
-  "main.js": "/typist/static/js/main.185f0c97.chunk.js",
-  "main.js.map": "/typist/static/js/main.185f0c97.chunk.js.map",
-  "static/js/1.ec2c38a9.chunk.js": "/typist/static/js/1.ec2c38a9.chunk.js",
-  "static/js/1.ec2c38a9.chunk.js.map": "/typist/static/js/1.ec2c38a9.chunk.js.map",
+  "main.js": "/typist/static/js/main.cf79ac52.chunk.js",
+  "main.js.map": "/typist/static/js/main.cf79ac52.chunk.js.map",
+  "static/js/1.c9d232a0.chunk.js": "/typist/static/js/1.c9d232a0.chunk.js",
+  "static/js/1.c9d232a0.chunk.js.map": "/typist/static/js/1.c9d232a0.chunk.js.map",
   "runtime~main.js": "/typist/static/js/runtime~main.6442b141.js",
   "runtime~main.js.map": "/typist/static/js/runtime~main.6442b141.js.map",
   "static/css/main.5c3a49f5.chunk.css.map": "/typist/static/css/main.5c3a49f5.chunk.css.map",
   "index.html": "/typist/index.html",
-  "precache-manifest.75e017c11b552a112c600f2b53712f53.js": "/typist/precache-manifest.75e017c11b552a112c600f2b53712f53.js",
+  "precache-manifest.ae5b97112cc57ea74f8206bba61c6056.js": "/typist/precache-manifest.ae5b97112cc57ea74f8206bba61c6056.js",
   "service-worker.js": "/typist/service-worker.js"
 }
